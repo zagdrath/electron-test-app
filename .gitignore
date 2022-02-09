@@ -1,1 +1,5 @@
+# NodeJS Stuff
 node_modules/
+
+# Electron Stuff
+out/
